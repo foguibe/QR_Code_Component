@@ -48,7 +48,7 @@ The `styles.css` file contains CSS rules that style the web page, adhering to mo
 
 - `display: flex` and `flex-direction: column` are used to create a responsive layout with a vertical flow.
 - The background color is set using HSL.
-- Appropriate margin and font-family ('Outfit') are defined for the entire page.
+- Appropriate margin and font-family ('Ubuntu') are defined for the entire page.
 
 #### Main Section
 
